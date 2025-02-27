@@ -1,0 +1,16 @@
+if SHIELD_HYPERTYP_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Hypertyp"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_HYPERTYP_LEFT || SHIELD_HYPERTYP_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif

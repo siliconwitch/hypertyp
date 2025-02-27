@@ -1,0 +1,5 @@
+config SHIELD_HYPERTYP_LEFT
+    def_bool $(shields_list_contains,hypertyp_left)
+
+config SHIELD_HYPERTYP_RIGHT
+    def_bool $(shields_list_contains,hypertyp_right)
