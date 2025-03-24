@@ -1,6 +1,6 @@
 ![Hypertyp Logo](images/logo.png)
 
-![Image of the keyboard]()
+![Image of the keyboard](images/07-finished-keyboard.jpg)
 
 # A DIY Bluetooth Split Mechanical Keyboard
 
